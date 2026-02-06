@@ -63,16 +63,16 @@ Author: Rain
 Name: Rain的设备
 
 Package: com.rain.photo
-Version: 1.0-11
+Version: 1.0-12
 Architecture: iphoneos-arm64
 Maintainer: Rain
 Installed-Size: 360
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0)
-Filename: ./debs/com.rain.photo_0.5.deb
-Size: 21262
-MD5sum: 3f8415cb6469888eb5706239ef7e0815
-SHA1: 902484c5defe524c5c84625c0fad1bca0cfce98c
-SHA256: 7f34319ecd508352f79893c4c8a40c73001c546e18ed7b1dbe17e5fde7fbf0c9
+Filename: ./debs/com.rain.photo_1.01.deb
+Size: 21240
+MD5sum: 5a6ffbc84302b118b9a9a597bc7bdb19
+SHA1: 066f626d3780c546a557a74b69b5dc16f2664e7e
+SHA256: 4773e18460bdc8d446db0da16e30facee6bcfd962d4c9712bdb74ccfe6f46eea
 Section: Tweaks
 Description: Rain Protect My Photos!
 Author: Rain
