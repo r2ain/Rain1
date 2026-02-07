@@ -78,6 +78,22 @@ Description: Rain Protect My Photos!
 Author: Rain
 Name: Rain
 
+Package: com.rain.photopro
+Version: 1.0-14
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0)
+Filename: ./debs/com.rain.photopro_1.0.deb
+Size: 59614
+MD5sum: dcd9edb7f10edebc74b8c48d2fed7cad
+SHA1: 58fe4698e795f6421d8b523d2dea47baf9da0b47
+SHA256: b1c78845dadc3fd6e45d604b96559d687aeadf5e381ff69665eb5a87ee3c0ae6
+Section: Tweaks
+Description: Rain Pro - Protect My Photos!
+Author: Rain
+Name: Rain Pro
+
 Package: com.rain.processmonitor
 Version: 1.0.0-156+debug
 Architecture: iphoneos-arm64
