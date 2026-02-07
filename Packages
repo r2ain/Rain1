@@ -78,22 +78,6 @@ Description: Rain Protect My Photos!
 Author: Rain
 Name: Rain
 
-Package: com.rain.processmonitor
-Version: 1.0.0-143+debug
-Architecture: iphoneos-arm64
-Maintainer: Rain
-Installed-Size: 1424
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.processmonitor_1.0.deb
-Size: 204970
-MD5sum: bbf0cf8c3a7b4e4157dde50cb239f216
-SHA1: e46ae7fafe180088cc039e8479e7f16916338af1
-SHA256: b720c4c8d028a09da2243e8b0a26612d5cafdf3caa0d618a4a88b481a95c8258
-Section: Tweaks
-Description: 进程监控与日志记录工具。功能包括：使用统计、性能统计、通知统计、进程日志、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、应用透明、双声音通知等。
-Author: Rain
-Name: Rain的应用
-
 Package: com.rain.reachnotify
 Version: 0.0.1-178+debug
 Architecture: iphoneos-arm64
