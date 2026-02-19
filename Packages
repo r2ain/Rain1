@@ -111,16 +111,16 @@ Author: Rain
 Name: Rain的应用
 
 Package: com.rain.raindyn
-Version: 1.0.0-6+debug
+Version: 1.0.0-8+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 760
+Installed-Size: 780
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.rain.raindyn_1.0.0.deb
-Size: 96604
-MD5sum: 87fb52a77d5531a3551204ce54c7a38f
-SHA1: 548a7861712089cb8b3c6705ea2de5c96b341ebd
-SHA256: da11af36c2c7a4238108b65e1e26f913c76a508cd4531b01f1f08feb0d8ec2ba
+Filename: ./debs/com.rain.raindyn_.deb
+Size: 97270
+MD5sum: 8a91776887c7e27ac8461faa89755c4c
+SHA1: 958f20cc39a348397dd5979385432366f2fcca3a
+SHA256: 1af7be0d5a7eb3baafe898ebb233d0b386dda13f94dfd9c1f3ee7ccaa713a079
 Section: Tweaks
 Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。
 Author: Rain
