@@ -161,6 +161,22 @@ Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自
 Author: Rain
 Name: Rain的灵动卡片
 
+Package: com.rain.rainwindow
+Version: 1.0-1-129+debug
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 2268
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rain.rainwindow_1.0-1-129+debug_iphoneos-arm64.deb
+Size: 385158
+MD5sum: 85e373f1d53a90100388423cd032c0d9
+SHA1: 47785fd14bc09d25eb724c76a0bdb455192add74
+SHA256: 8c5171a0f59795bbe731618d446c1cb686f89e24e686e442936a0ed0188ca79d
+Section: Tweaks
+Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
+Author: Rain
+Name: Rain的窗口
+
 Package: com.rain.reachnotify
 Version: 0.0.1-180+debug
 Architecture: iphoneos-arm64
