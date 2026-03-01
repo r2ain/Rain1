@@ -111,16 +111,16 @@ Author: Rain
 Name: Rain的应用
 
 Package: com.rain.raincall
-Version: 2.0-56
+Version: 2.5-7
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 836
+Installed-Size: 1016
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.rain.raincall_2.0.deb
-Size: 110974
-MD5sum: f42a4d0b5c02a4e736c6b75463c0c3ba
-SHA1: b61ab30f5dc597b289a3e420dc72e7e34fe51e61
-SHA256: e77dce98e97e35850bede77726f30e573568acb901219a38c058f4c04c81fb03
+Filename: ./debs/com.rain.raincall.deb
+Size: 157992
+MD5sum: 89b164e73a9946b439bbd1360e35ad8b
+SHA1: d401315457e79f17a8b637e0d14f01c74bdb97af
+SHA256: c98bd19f3b155726e1bd9c444b0b662d53056177b937005e97f68ad7de05c079
 Section: Tweaks
 Description: Rain的通话录音插件 - Hook mediaserverd 实现无权限通话自动录音
  通过 hook mediaserverd 音频流实现通话录音，无需额外权限和独立进程
