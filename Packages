@@ -162,16 +162,16 @@ Author: Rain
 Name: Rain的灵动卡片
 
 Package: com.rain.rainwindow
-Version: 1.0-1-129+debug
+Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 2268
+Installed-Size: 3740
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.rainwindow_1.0-1-129+debug_iphoneos-arm64.deb
-Size: 385158
-MD5sum: 85e373f1d53a90100388423cd032c0d9
-SHA1: 47785fd14bc09d25eb724c76a0bdb455192add74
-SHA256: 8c5171a0f59795bbe731618d446c1cb686f89e24e686e442936a0ed0188ca79d
+Filename: ./debs/com.rain.rainwindow_1.0-2_iphoneos-arm64.deb
+Size: 689444
+MD5sum: 0c735da219706792f2be1b5abbfb762c
+SHA1: f90cb77a751ba0bd8cac59ac335a6ce4fcd23679
+SHA256: 607a84e7ca98ad4be14182654d94b8f0979d1befda054be14ffb4c4b8df7d668
 Section: Tweaks
 Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
 Author: Rain
