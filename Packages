@@ -146,16 +146,16 @@ Author: Rain
 Name: Rain的容器
 
 Package: com.rain.raindyn
-Version: 1.1.0-2+debug
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 1028
+Installed-Size: 748
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.rain.raindyn_1.1.deb
-Size: 206016
-MD5sum: c6f3cbcb5cebf096c5555010484cd8a5
-SHA1: a69678869c3597987fb39b33b56de26523a35a62
-SHA256: 049db5c87fd0eb591b2b9c460ba80d7c10aec464e258bccd7deb5a8eb7b5084f
+Filename: ./debs/com.rain.raindyn_1.1.0_iphoneos-arm64.deb
+Size: 169130
+MD5sum: f545e732358e5236398af5eea50004a0
+SHA1: 1f9cae1270857cb64dc59ebf379c1a66989e4062
+SHA256: 931d67153f1102aecfdafa0808ec4234eab830cd62bf47fbcc9999ff74277b75
 Section: Tweaks
 Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。新增：快捷回复、通知堆叠、Per-App独立样式、运行时设备检测。
 Author: Rain
