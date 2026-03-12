@@ -165,13 +165,13 @@ Package: com.rain.rainwindow
 Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 3740
+Installed-Size: 4364
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.rainwindow_1.0-2_iphoneos-arm64.deb
-Size: 689444
-MD5sum: 0c735da219706792f2be1b5abbfb762c
-SHA1: f90cb77a751ba0bd8cac59ac335a6ce4fcd23679
-SHA256: 607a84e7ca98ad4be14182654d94b8f0979d1befda054be14ffb4c4b8df7d668
+Filename: ./debs/com.rain.rainwindow_1.0-21_iphoneos-arm64.deb
+Size: 711540
+MD5sum: 08322c8edd64a672c8650fffd333ed5c
+SHA1: e32115691c5ae8388a9406282cac070d20d490d9
+SHA256: f832aa1c2eea0aa014f62e9ba28a248473367acd57e3e836c9efb48ea41b8858
 Section: Tweaks
 Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
 Author: Rain
