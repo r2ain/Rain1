@@ -1,0 +1,91 @@
+{
+  "minVersion": "0.1",
+  "tintColor": "#2CB1BE",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain的设备"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\n任意魔法修改你的设备型号！让你的设备显示为任何你想要的 iPhone / iPad 型号。",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🪄 自由修改设备型号标识\n- 📱 支持修改为任意 iPhone / iPad 型号\n- ⚙️ 内置设置面板，操作简单\n- 🔄 随时恢复原始型号",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "兼容性"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "架构",
+          "text": "arm64"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "依赖",
+          "text": "Substrate, PreferenceLoader"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "访问作者源",
+          "action": "https://rain1-d1l.pages.dev",
+          "openExternal": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0.1"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 修复已知问题\n- 优化稳定性",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 初始版本发布\n- 支持自定义设备型号",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
