@@ -17,6 +17,21 @@
           "useSpacing": true
         },
         {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/1.png"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/2.png"
+            }
+          ]
+        },
+        {
           "class": "DepictionSeparatorView"
         },
         {
@@ -54,8 +69,8 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "访问作者源",
-          "action": "https://rain1-d1l.pages.dev",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
           "openExternal": true
         }
       ]
