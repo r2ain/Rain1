@@ -24,23 +24,23 @@
           "screenshots": [
             {
               "accessibilityText": "截图1",
-              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/1.png"
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/1.png?v=20260316"
             },
             {
               "accessibilityText": "截图2",
-              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/2.png"
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/2.png?v=20260316"
             },
             {
               "accessibilityText": "截图3",
-              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/3.png"
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/3.png?v=20260316"
             },
             {
               "accessibilityText": "截图4",
-              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/4.png"
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/4.png?v=20260316"
             },
             {
               "accessibilityText": "截图5",
-              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/5.png"
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.model/5.png?v=20260316"
             }
           ]
         },
@@ -65,42 +65,37 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "📦 包名",
+          "title": "包名",
           "text": "com.rain.model"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "🏷️ 版本",
+          "title": "版本",
           "text": "1.0.1"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "👤 作者",
+          "title": "作者",
           "text": "Rain"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "💰 价格",
-          "text": "免费"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "📐 架构",
+          "title": "架构",
           "text": "arm64"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "📁 大小",
+          "title": "大小",
           "text": "49 KB"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "📅 更新日期",
+          "title": "更新日期",
           "text": "2026-01-26"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "📂 分类",
+          "title": "分类",
           "text": "Tweaks"
         },
         {
