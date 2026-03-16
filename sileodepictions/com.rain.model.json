@@ -65,23 +65,13 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "包名",
-          "text": "com.rain.model"
-        },
-        {
-          "class": "DepictionTableTextView",
           "title": "版本",
           "text": "1.0.1"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "作者",
-          "text": "Rain"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "架构",
-          "text": "arm64"
+          "title": "更新时间",
+          "text": "2026-01-26"
         },
         {
           "class": "DepictionTableTextView",
@@ -90,13 +80,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "更新日期",
-          "text": "2026-01-26"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "分类",
-          "text": "Tweaks"
+          "title": "系统兼容",
+          "text": "iOS 14 ~ 17"
         },
         {
           "class": "DepictionSeparatorView"
