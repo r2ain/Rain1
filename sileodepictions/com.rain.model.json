@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.model.png",
-  "tintColor": "#2CB1BE",
+  "tintColor": "#6CC5D1",
   "class": "DepictionTabView",
   "tabs": [
     {
@@ -10,12 +10,14 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "Rain的设备"
+          "title": "Rain的设备",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "## 简介\n\n任意魔法修改你的设备型号！让你的设备显示为任何你想要的 iPhone / iPad 型号。",
-          "useSpacing": true
+          "useSpacing": true,
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -45,69 +47,122 @@
           ]
         },
         {
-          "class": "DepictionSeparatorView"
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionHeaderView",
-          "title": "功能特点"
+          "title": "功能特点",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "- 🪄 自由修改设备型号标识\n- 📱 支持修改为任意 iPhone / iPad 型号\n- ⚙️ 内置设置面板，操作简单\n- 🔄 随时恢复原始型号",
-          "useSpacing": true
+          "useSpacing": true,
+          "textColor": "#6CC5D1"
         },
         {
-          "class": "DepictionSeparatorView"
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionHeaderView",
-          "title": "插件数据"
+          "title": "插件数据",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionTableTextView",
           "title": "版本",
-          "text": "1.0.1"
+          "text": "1.0.1",
+          "titleColor": "#6CC5D1",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionTableTextView",
           "title": "更新时间",
-          "text": "2026-01-26"
+          "text": "2026-01-26",
+          "titleColor": "#6CC5D1",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionTableTextView",
           "title": "大小",
-          "text": "49 KB"
+          "text": "49 KB",
+          "titleColor": "#6CC5D1",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionTableTextView",
           "title": "系统兼容",
-          "text": "iOS 14 ~ 17"
+          "text": "iOS 14 ~ 17",
+          "titleColor": "#6CC5D1",
+          "textColor": "#6CC5D1"
         },
         {
-          "class": "DepictionSeparatorView"
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionHeaderView",
-          "title": "联系作者"
+          "title": "联系作者",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionTableButtonView",
           "title": "获取作者联系",
           "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
-          "openExternal": true
+          "openExternal": true,
+          "tintColor": "#6CC5D1"
         },
         {
-          "class": "DepictionSeparatorView"
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionHeaderView",
-          "title": "免责声明"
+          "title": "免责声明",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
           "useSpacing": true,
           "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
         }
       ]
     },
@@ -117,24 +172,35 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "1.0.1"
+          "title": "1.0.1",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "- 修复已知问题\n- 优化稳定性",
-          "useSpacing": true
+          "useSpacing": true,
+          "textColor": "#6CC5D1"
         },
         {
-          "class": "DepictionSeparatorView"
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionHeaderView",
-          "title": "1.0"
+          "title": "1.0",
+          "textColor": "#6CC5D1"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "- 🎉 初始版本发布\n- 支持自定义设备型号",
-          "useSpacing": true
+          "useSpacing": true,
+          "textColor": "#6CC5D1"
         }
       ]
     }
