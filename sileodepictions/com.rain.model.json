@@ -1,5 +1,6 @@
 {
   "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.model.png",
   "tintColor": "#2CB1BE",
   "class": "DepictionTabView",
   "tabs": [
@@ -64,13 +65,50 @@
         },
         {
           "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "1.0.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "作者",
+          "text": "Rain"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "价格",
+          "text": "免费"
+        },
+        {
+          "class": "DepictionTableTextView",
           "title": "架构",
           "text": "arm64"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "设备兼容"
+        },
+        {
           "class": "DepictionTableTextView",
-          "title": "依赖",
-          "text": "Substrate, PreferenceLoader"
+          "title": "iOS 14",
+          "text": "✅ 支持"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "iOS 15 - 16.5",
+          "text": "✅ 支持"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "iOS 17.0",
+          "text": "✅ 支持"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "越狱工具",
+          "text": "Dopamine / Taurine / Bootstrap"
         },
         {
           "class": "DepictionSeparatorView"
@@ -84,6 +122,19 @@
           "title": "获取作者联系",
           "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
           "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
+          "useSpacing": true,
+          "textColor": "#999999"
         }
       ]
     },
