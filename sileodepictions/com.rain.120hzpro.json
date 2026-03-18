@@ -1,0 +1,208 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.120hzpro.png",
+  "tintColor": "#FF6B6B",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain的120Hz Pro",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\n强制高帧率应用到每一个应用上，支持 IOKit 底层帧率锁定、防系统降频、帧率波动图、实时 FPS 测量、安全防护增强。",
+          "useSpacing": true,
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.120hzpro/1.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.120hzpro/2.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图3",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.120hzpro/3.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图4",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.120hzpro/4.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图5",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.120hzpro/5.png?v=20260318"
+            }
+          ]
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🚀 IOKit 底层帧率锁定\n- 🛡 防系统降频保护\n- 📊 帧率波动图实时显示\n- 📱 实时 FPS 测量\n- 🔒 安全防护增强",
+          "useSpacing": true,
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "插件数据",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "2.0.8",
+          "titleColor": "#FF6B6B",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "更新时间",
+          "text": "2026-03-11",
+          "titleColor": "#FF6B6B",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "大小",
+          "text": "170 KB",
+          "titleColor": "#FF6B6B",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "系统兼容",
+          "text": "iOS 15+",
+          "titleColor": "#FF6B6B",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
+          "openExternal": true,
+          "tintColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
+          "useSpacing": true,
+          "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "2.0.8",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 安全防护增强\n- 帧率波动图优化\n- 实时 FPS 测量改进",
+          "useSpacing": true,
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 初始版本发布\n- 支持 IOKit 底层帧率锁定",
+          "useSpacing": true,
+          "textColor": "#FF6B6B"
+        }
+      ]
+    }
+  ]
+}

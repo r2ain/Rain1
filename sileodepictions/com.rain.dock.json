@@ -1,0 +1,208 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.dock.png",
+  "tintColor": "#4ECDC4",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain的Dock",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\nDock 栏更美观！自定义 Dock 背景、漂浮图标围绕在 Dock 上，打造专属桌面风格。",
+          "useSpacing": true,
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.dock/1.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.dock/2.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图3",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.dock/3.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图4",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.dock/4.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图5",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.dock/5.png?v=20260318"
+            }
+          ]
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎨 自定义 Dock 背景样式\n- ✨ 漂浮图标动画效果\n- 🖌 多种 Dock 外观可选\n- ⚙️ 灵活的设置面板",
+          "useSpacing": true,
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "插件数据",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "2.8",
+          "titleColor": "#4ECDC4",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "更新时间",
+          "text": "2026-01-31",
+          "titleColor": "#4ECDC4",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "大小",
+          "text": "61 KB",
+          "titleColor": "#4ECDC4",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "系统兼容",
+          "text": "iOS 14+",
+          "titleColor": "#4ECDC4",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
+          "openExternal": true,
+          "tintColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
+          "useSpacing": true,
+          "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "2.8",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 优化 Dock 背景渲染\n- 新增漂浮图标效果\n- 修复已知问题",
+          "useSpacing": true,
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0",
+          "textColor": "#4ECDC4"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 初始版本发布\n- 支持自定义 Dock 背景",
+          "useSpacing": true,
+          "textColor": "#4ECDC4"
+        }
+      ]
+    }
+  ]
+}

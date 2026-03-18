@@ -1,0 +1,187 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.photo.png",
+  "tintColor": "#F59E0B",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\n保护你的照片隐私！防止他人随意查看你的相册内容。",
+          "useSpacing": true,
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photo/1.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photo/2.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图3",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photo/3.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图4",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photo/4.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图5",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photo/5.png?v=20260318"
+            }
+          ]
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🔒 照片隐私保护\n- 📷 防止他人查看相册\n- ⚙️ 内置设置面板\n- 🛡 安全可靠",
+          "useSpacing": true,
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "插件数据",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "1.0",
+          "titleColor": "#F59E0B",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "更新时间",
+          "text": "2026-02-06",
+          "titleColor": "#F59E0B",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "大小",
+          "text": "21 KB",
+          "titleColor": "#F59E0B",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "系统兼容",
+          "text": "iOS 12+",
+          "titleColor": "#F59E0B",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
+          "openExternal": true,
+          "tintColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
+          "useSpacing": true,
+          "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0",
+          "textColor": "#F59E0B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 初始版本发布\n- 照片隐私保护功能",
+          "useSpacing": true,
+          "textColor": "#F59E0B"
+        }
+      ]
+    }
+  ]
+}

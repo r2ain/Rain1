@@ -1,0 +1,208 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.raincall.png",
+  "tintColor": "#EF4444",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain的通话",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\nRain 的通话录音插件，支持蜂窝通话和 VoIP 通话录音。通过 ATAudioTap 实现，支持微信/QQ/钉钉 VoIP 通话录音，自动录音、混音合并、AI 分析、通话字幕、质量监控。",
+          "useSpacing": true,
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincall/1.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincall/2.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图3",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincall/3.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图4",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincall/4.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图5",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincall/5.png?v=20260318"
+            }
+          ]
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 📞 蜂窝通话录音\n- 💬 VoIP 通话录音（微信/QQ/钉钉）\n- 🤖 AI 智能分析\n- 📝 通话字幕实时显示\n- 🔄 自动录音与混音合并\n- 📊 通话质量监控",
+          "useSpacing": true,
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "插件数据",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "2.5",
+          "titleColor": "#EF4444",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "更新时间",
+          "text": "2026-03-11",
+          "titleColor": "#EF4444",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "大小",
+          "text": "163 KB",
+          "titleColor": "#EF4444",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "系统兼容",
+          "text": "iOS 15+",
+          "titleColor": "#EF4444",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
+          "openExternal": true,
+          "tintColor": "#EF4444"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
+          "useSpacing": true,
+          "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "2.5",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- AI 分析功能\n- 通话字幕支持\n- 质量监控优化",
+          "useSpacing": true,
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0",
+          "textColor": "#EF4444"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 初始版本发布\n- 支持蜂窝通话与 VoIP 录音",
+          "useSpacing": true,
+          "textColor": "#EF4444"
+        }
+      ]
+    }
+  ]
+}

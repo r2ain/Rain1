@@ -1,0 +1,187 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.photopro.png",
+  "tintColor": "#F97316",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain Pro",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\nRain Pro - 照片隐私保护升级版！更强大的照片防护功能，全方位守护你的隐私。",
+          "useSpacing": true,
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photopro/1.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photopro/2.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图3",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photopro/3.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图4",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photopro/4.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图5",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.photopro/5.png?v=20260318"
+            }
+          ]
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🔒 高级照片隐私保护\n- 📷 多层防护机制\n- ⚙️ 丰富的设置选项\n- 🛡 Pro 级安全保障\n- 📱 完美适配各机型",
+          "useSpacing": true,
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "插件数据",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "1.0",
+          "titleColor": "#F97316",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "更新时间",
+          "text": "2026-02-07",
+          "titleColor": "#F97316",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "大小",
+          "text": "58 KB",
+          "titleColor": "#F97316",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "系统兼容",
+          "text": "iOS 12+",
+          "titleColor": "#F97316",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
+          "openExternal": true,
+          "tintColor": "#F97316"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
+          "useSpacing": true,
+          "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0",
+          "textColor": "#F97316"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 Pro 版本发布\n- 高级照片防护功能",
+          "useSpacing": true,
+          "textColor": "#F97316"
+        }
+      ]
+    }
+  ]
+}

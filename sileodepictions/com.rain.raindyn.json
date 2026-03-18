@@ -1,0 +1,208 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.raindyn.png",
+  "tintColor": "#EC4899",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain的灵动卡片",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\n自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示、快捷回复、通知堆叠、Per-App 独立样式等丰富功能。",
+          "useSpacing": true,
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raindyn/1.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raindyn/2.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图3",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raindyn/3.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图4",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raindyn/4.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图5",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raindyn/5.png?v=20260318"
+            }
+          ]
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- ✨ 自定义通知卡片动画\n- 🎨 自定义背景与粒子特效\n- 🐾 桌面宠物功能\n- 🌤 天气实时显示\n- 💬 快捷回复支持\n- 📚 通知堆叠管理\n- 🎯 Per-App 独立样式",
+          "useSpacing": true,
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "插件数据",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "1.1.0",
+          "titleColor": "#EC4899",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "更新时间",
+          "text": "2026-03-11",
+          "titleColor": "#EC4899",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "大小",
+          "text": "165 KB",
+          "titleColor": "#EC4899",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "系统兼容",
+          "text": "iOS 15+",
+          "titleColor": "#EC4899",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
+          "openExternal": true,
+          "tintColor": "#EC4899"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
+          "useSpacing": true,
+          "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.1.0",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 快捷回复功能\n- 通知堆叠支持\n- Per-App 独立样式\n- 运行时设备检测",
+          "useSpacing": true,
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0",
+          "textColor": "#EC4899"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 初始版本发布\n- 自定义通知卡片动画效果",
+          "useSpacing": true,
+          "textColor": "#EC4899"
+        }
+      ]
+    }
+  ]
+}

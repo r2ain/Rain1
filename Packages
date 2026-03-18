@@ -61,7 +61,6 @@ Section: Tweaks
 Description: 任意魔法自己设备型号！
 Author: Rain
 Name: Rain的设备
-SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.model.json
 
 Package: com.rain.photo
 Version: 1.0-12

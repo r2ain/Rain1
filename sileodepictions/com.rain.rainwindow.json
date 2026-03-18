@@ -1,0 +1,187 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.rainwindow.png",
+  "tintColor": "#3B82F6",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain的窗口",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\n点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI 助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置。",
+          "useSpacing": true,
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.rainwindow/1.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.rainwindow/2.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图3",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.rainwindow/3.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图4",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.rainwindow/4.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图5",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.rainwindow/5.png?v=20260318"
+            }
+          ]
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🔋 状态栏电池图标一键呼出\n- 🌤 天气模块实时显示\n- 📷 相册快捷访问\n- 📝 备忘录模块\n- 🤖 AI 助手集成\n- 🚀 应用快捷启动\n- ℹ️ 系统信息查看\n- 🔔 通知管理\n- 🎨 自定义排列与配置",
+          "useSpacing": true,
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "插件数据",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "1.0",
+          "titleColor": "#3B82F6",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "更新时间",
+          "text": "2026-03-12",
+          "titleColor": "#3B82F6",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "大小",
+          "text": "695 KB",
+          "titleColor": "#3B82F6",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "系统兼容",
+          "text": "iOS 14+",
+          "titleColor": "#3B82F6",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
+          "openExternal": true,
+          "tintColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。",
+          "useSpacing": true,
+          "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0",
+          "textColor": "#3B82F6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 初始版本发布\n- 多功能悬浮面板\n- 天气、相册、AI 助手等模块",
+          "useSpacing": true,
+          "textColor": "#3B82F6"
+        }
+      ]
+    }
+  ]
+}

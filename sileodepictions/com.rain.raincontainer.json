@@ -1,0 +1,208 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://rain1-d1l.pages.dev/assets/banners/com.rain.raincontainer.png",
+  "tintColor": "#8B5CF6",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Rain的容器",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 简介\n\nCrane 容器增强管理插件。提供上滑面板快速切换、动态边框、容器气泡、分身术、雷达、沙盒浏览器、时间胶囊等丰富功能。基于 opa334 的 Crane 开发。",
+          "useSpacing": true,
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "截图1",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincontainer/1.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图2",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincontainer/2.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图3",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincontainer/3.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图4",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincontainer/4.png?v=20260318"
+            },
+            {
+              "accessibilityText": "截图5",
+              "url": "https://rain1-d1l.pages.dev/assets/screenshots/com.rain.raincontainer/5.png?v=20260318"
+            }
+          ]
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "功能特点",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🔄 上滑面板快速切换容器\n- 🎨 动态边框与容器气泡\n- 👥 分身术多开支持\n- 📡 容器雷达扫描\n- 📂 沙盒浏览器\n- ⏳ 时间胶囊功能\n- 👻 幽灵容器与伪装容器\n- 🔒 安全等级与入侵检测",
+          "useSpacing": true,
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "插件数据",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "版本",
+          "text": "2.8.0",
+          "titleColor": "#8B5CF6",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "更新时间",
+          "text": "2026-02-26",
+          "titleColor": "#8B5CF6",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "大小",
+          "text": "153 KB",
+          "titleColor": "#8B5CF6",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "系统兼容",
+          "text": "iOS 14+",
+          "titleColor": "#8B5CF6",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "联系作者",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "获取作者联系",
+          "action": "https://m.tb.cn/h.ifJWLH9?tk=zdg9UCXb3S6",
+          "openExternal": true,
+          "tintColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "免责声明",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。使用本插件所造成的一切后果由用户自行承担，作者不承担任何法律责任。基于 opa334 的 Crane 开发。",
+          "useSpacing": true,
+          "textColor": "#999999"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 Rain Studio",
+          "useSpacing": false,
+          "textColor": "#BBBBBB",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "2.8.0",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 幽灵容器与蜜罐容器\n- 入侵检测日志\n- 安全等级提升",
+          "useSpacing": true,
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionImageView",
+          "URL": "https://rain1-d1l.pages.dev/assets/common/gradient_line.png",
+          "height": 2,
+          "horizontalPadding": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "1.0",
+          "textColor": "#8B5CF6"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 🎉 初始版本发布\n- Crane 容器增强管理",
+          "useSpacing": true,
+          "textColor": "#8B5CF6"
+        }
+      ]
+    }
+  ]
+}
