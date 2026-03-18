@@ -13,6 +13,7 @@ Section: Tweaks
 Description: 强制高帧率应用到每一个应用上，支持IOKit底层帧率锁定、防系统降频、帧率波动图、实时FPS测量、安全防护增强
 Author: rain
 Name: rain的120hz Pro
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.120hzpro.json
 
 Package: com.rain.dock
 Version: 2.8
@@ -29,6 +30,7 @@ Section: Tweaks
 Description: Rain的Dock栏更美观/自定义Dock背景/漂浮图标围绕在Dock上
 Author: Rain
 Name: Rain的Dock
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.dock.json
 
 Package: com.rain.magicsms
 Version: 0.0.1-9+debug
@@ -45,6 +47,7 @@ Section: Tweaks
 Description: 免责声明：不存在任何收费且严禁用于商业用途，仅供学习交流使用，严禁用于欺骗与误导，后果自负。本人不承担任何法律责任。信息搜索栏输入8开启/关闭
 Author: rain
 Name: MagicSMS
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.magicsms.json
 
 Package: com.rain.model
 Version: 1.0.1-1+debug
@@ -61,6 +64,7 @@ Section: Tweaks
 Description: 任意魔法自己设备型号！
 Author: Rain
 Name: Rain的设备
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.model.json
 
 Package: com.rain.photo
 Version: 1.0-12
@@ -77,6 +81,7 @@ Section: Tweaks
 Description: Rain Protect My Photos!
 Author: Rain
 Name: Rain
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.photo.json
 
 Package: com.rain.photopro
 Version: 1.0-14
@@ -93,6 +98,7 @@ Section: Tweaks
 Description: Rain Pro - Protect My Photos!
 Author: Rain
 Name: Rain Pro
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.photopro.json
 
 Package: com.rain.processmonitor
 Version: 1.0.0-156+debug
@@ -109,6 +115,7 @@ Section: Tweaks
 Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知等。
 Author: Rain
 Name: Rain的应用
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
 Package: com.rain.raincall
 Version: 2.5-8-1
@@ -128,6 +135,7 @@ Description: Rain的通话录音插件 - 支持蜂窝通话和 VoIP 通话录音
 Tag: role::hacker, purpose::extension
 Author: Rain
 Name: Rain的通话
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raincall.json
 
 Package: com.rain.raincontainer
 Version: 2.8.0
@@ -144,6 +152,7 @@ Section: Tweaks
 Description: Crane 容器增强管理插件。提供上滑面板快速切换、动态边框、容器气泡、分身术、雷达、沙盒浏览器、时间胶囊、伪装容器、主题色、应急切换、幽灵容器、双层容器、蜜罐容器、安全等级、入侵检测日志等丰富功能。基于 opa334 的 Crane 开发。本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。
 Author: Rain
 Name: Rain的容器
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raincontainer.json
 
 Package: com.rain.raindyn
 Version: 1.1.0
@@ -160,6 +169,7 @@ Section: Tweaks
 Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。新增：快捷回复、通知堆叠、Per-App独立样式、运行时设备检测。
 Author: Rain
 Name: Rain的灵动卡片
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raindyn.json
 
 Package: com.rain.rainwindow
 Version: 1.0-2
@@ -176,6 +186,7 @@ Section: Tweaks
 Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
 Author: Rain
 Name: Rain的窗口
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainwindow.json
 
 Package: com.rain.reachnotify
 Version: 0.0.1-1-2+debug
@@ -192,4 +203,5 @@ Section: Tweaks
 Description: 通知显示增强，收到通知能看到图标。v1.7.0优化：宏重构配置加载、线程安全、LRU去重、气泡拖尾、Reachability偏移量可调。
 Author: rain
 Name: Rain的通知
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.reachnotify.json
 
