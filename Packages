@@ -214,7 +214,7 @@ Architecture: iphoneos-arm64
 Maintainer: rain
 Installed-Size: 788
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.rain.reachnotify_0.0.1-181+debug_iphoneos-arm64.deb
+Filename: ./debs/com.rain.reachnotify.deb
 Size: 167252
 MD5sum: 450910e5c14ea433baea05ead4db6040
 SHA1: b06d670367ecc21f15e65c69c899feb84da24c39
