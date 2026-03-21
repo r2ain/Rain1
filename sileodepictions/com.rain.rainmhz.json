@@ -15,7 +15,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 简介\n\nu进行频率控制",
+          "markdown": "## 简介\n\n进行频率控制",
           "useSpacing": true,
           "textColor": "#F472B6"
         },
