@@ -118,16 +118,16 @@ Name: Rain的应用
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
 Package: com.rain.raincall
-Version: 2.5-8-1
+Version: 2.5-10-2
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 1188
+Installed-Size: 1224
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.rain.raincall_2.5-8-1_iphoneos-arm64.deb
-Size: 167324
-MD5sum: 2b7f2be731404b3f0a5fd6165f4d4e33
-SHA1: 011abe9dc35484fa127d7d70c7b71ac302b6c473
-SHA256: 6b24484147f529619f2a942b261ef78c830ad6910792bd625719e3e26d4412f2
+Filename: ./debs/com.rain.raincall_2.5-10-2_iphoneos-arm64.deb
+Size: 181812
+MD5sum: c00f2c39ca17f28a0c601ec8e2d81670
+SHA1: 1c4c02c73c2e7b3c072706515aa61d83abab340d
+SHA256: 7125231afc454ec1cd782db26d2102c41a6766e81c2b70a12dfcc9533351a9c5
 Section: Tweaks
 Description: Rain的通话录音插件 - 支持蜂窝通话和 VoIP 通话录音
  通过 ATAudioTap 实现通话录音，支持微信/QQ/钉钉 VoIP 通话录音
@@ -170,6 +170,26 @@ Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自
 Author: Rain
 Name: Rain的灵动卡片
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raindyn.json
+
+Package: com.rain.rainmhz
+Version: 2.0-1-6
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 772
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/com.rain.rainmhz_2.0-1-6_iphoneos-arm64.deb
+Size: 72690
+MD5sum: 1851a5cd6f8365cda7da03a11cf6c4d2
+SHA1: b14d8a577786953f09738a3709ea31fc1c494734
+SHA256: 6e4505fc7dfcb3c3b5daea7a5bb73ea2215abd4cc62aedc47d391d989626e945
+Section: Tweaks
+Description: Rain的CPU频率控制插件 - 锁定CPU性能状态
+ 通过IOKit控制Apple ARM DVFS，支持低功耗/均衡/高性能模式
+ 新增: 游戏模式、应用级智能调频、迷你跑分、实时仪表盘、电量预估、控制中心快捷模块
+Tag: role::hacker, purpose::extension
+Author: Rain
+Name: Rain的Mhz
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainmhz.json
 
 Package: com.rain.rainwindow
 Version: 1.0-2
