@@ -198,7 +198,7 @@ if [ -z "$SKIP_DEPICTION" ]; then
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "$(echo -e "$FEATURES")",
+          "markdown": "$(echo "$FEATURES" | sed ':a;N;$!ba;s/\n/\\n/g')",
           "useSpacing": true,
           "textColor": "${TINT_COLOR}"
         },

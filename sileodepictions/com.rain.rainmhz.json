@@ -63,10 +63,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- 🚀 cpu性能状态
-- ✨ 支持低功均衡高性能
-- 🔧 游戏模式 应用级智能调频
-- 📱 电量预估等",
+          "markdown": "- 🚀 CPU性能状态锁定\n- ✨ 支持低功耗/均衡/高性能模式\n- 🔧 游戏模式与应用级智能调频\n- 📱 电量预估与实时仪表盘",
           "useSpacing": true,
           "textColor": "#F472B6"
         },
