@@ -16,18 +16,18 @@ Name: rain的120hz Pro
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.120hzpro.json
 
 Package: com.rain.dock
-Version: 2.8
+Version: 3.6
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 508
+Installed-Size: 712
 Depends: preferenceloader
-Filename: ./debs/com.rain.dock_2.8_iphoneos-arm64.deb
-Size: 62734
-MD5sum: c2f3cc6dd7190c2abefd0731c2676610
-SHA1: ac1d18c47ff7f0cc0dcb8976c96fc6b22df83db4
-SHA256: 9cbddeb6687bae4a49c5022fc1c886a7fae72ec547f25d288436dc132ca40ed7
+Filename: ./debs/com.rain.dock_3.6_iphoneos-arm64.deb
+Size: 112346
+MD5sum: 5f76d5f914e4bea6ce90d05154553e2d
+SHA1: 02764d21c4cebe7ea0828e66280a6121203e1c7e
+SHA256: a153770c3f8f28a6d08ab6173893b7719ed068560d69b971f489b88474a9da4b
 Section: Tweaks
-Description: Rain的Dock栏更美观/自定义Dock背景/漂浮图标围绕在Dock上
+Description: Rain的Dock栏更美观/毛玻璃/发光边框/壁纸联动/电池条/快捷启动/手势操作/霓虹文字/矩阵雨/彩虹边框/生态缸
 Author: Rain
 Name: Rain的Dock
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.dock.json
