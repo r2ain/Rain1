@@ -117,6 +117,24 @@ Author: Rain
 Name: Rain的应用
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
+Package: com.rain.rainback
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: rain
+Installed-Size: 400
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.rain.rainback_1.0.0_iphoneos-arm64.deb
+Size: 29820
+MD5sum: 177fee2843914b435de5567b37d2ad7a
+SHA1: e405316e0a8f44c9991403b042178147191425f1
+SHA256: 27ef55007766265e59256df7d48295af5c5efd10c9c5873d64e5c75e2246225d
+Section: Tweaks
+Description: 从屏幕右侧边缘左滑返回上一页面，支持灵敏度调节、黑白名单、震动反馈。
+Tag: role::hacker, purpose::extension
+Author: rain
+Name: rain的返回
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainback.json
+
 Package: com.rain.raincall
 Version: 2.5-10-2
 Architecture: iphoneos-arm64
