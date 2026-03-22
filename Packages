@@ -172,20 +172,21 @@ Name: Rain的灵动卡片
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raindyn.json
 
 Package: com.rain.rainmhz
-Version: 2.0-1-6
+Version: 3.0-1-2
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 772
+Installed-Size: 620
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/com.rain.rainmhz_2.0-1-6_iphoneos-arm64.deb
-Size: 72690
-MD5sum: 1851a5cd6f8365cda7da03a11cf6c4d2
-SHA1: b14d8a577786953f09738a3709ea31fc1c494734
-SHA256: 6e4505fc7dfcb3c3b5daea7a5bb73ea2215abd4cc62aedc47d391d989626e945
+Filename: ./debs/com.rain.rainmhz_3.0-1-2_iphoneos-arm64.deb
+Size: 75546
+MD5sum: 1e4e8139313dbc18126813c4c96f1820
+SHA1: 2f52ad5974198f766b869ad762b294a48ed21eda
+SHA256: dc1aa074d4e2800db95e7876aba77e136e611d7d93fe33068b2584ef4d7ba538
 Section: Tweaks
-Description: Rain的CPU频率控制插件 - 锁定CPU性能状态
+Description: Rain的CPU频率控制插件 - 14层策略锁定CPU性能状态
  通过IOKit控制Apple ARM DVFS，支持低功耗/均衡/高性能模式
- 新增: 游戏模式、应用级智能调频、迷你跑分、实时仪表盘、电量预估、控制中心快捷模块
+ 14层策略: 热节流绕过、P/E核独立调控、GPU联动调频、内存带宽控制、Jetsam内存提升
+ 游戏模式、应用级智能调频、迷你跑分、实时仪表盘、电量预估
 Tag: role::hacker, purpose::extension
 Author: Rain
 Name: Rain的Mhz
