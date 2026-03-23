@@ -118,16 +118,16 @@ Name: Rain的应用
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
 Package: com.rain.rainback
-Version: 1.1.0
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: rain
 Installed-Size: 472
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.rain.rainback_1.1.0_iphoneos-arm64.deb
-Size: 46486
-MD5sum: 228e73ea09d3ddd3bdb0876438257169
-SHA1: c12f39fa018a82d185e9035a21d5091817b6fe08
-SHA256: 8808db5c38ef020a6e0c751e61005215ed35b9ac497e5ee1e632ebbd0f1c4eb7
+Filename: ./debs/com.rain.rainback_1.2.0_iphoneos-arm64.deb
+Size: 47136
+MD5sum: 596e85974d0329e7394677e0b727f57d
+SHA1: 12953aecf5c6b88f15828d727d0ef12698298cff
+SHA256: 63780670edbce357b40303650d89c07923eba191506a08b609dbc53ed1fcffc6
 Section: Tweaks
 Description: 从屏幕右侧边缘左滑返回上一页面，支持灵敏度调节、黑白名单、震动反馈。
 Tag: role::hacker, purpose::extension
@@ -211,16 +211,16 @@ Name: Rain的Mhz
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainmhz.json
 
 Package: com.rain.rainwindow
-Version: 1.0-2
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 4364
+Installed-Size: 4980
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.rainwindow_1.0-21_iphoneos-arm64.deb
-Size: 711540
-MD5sum: 08322c8edd64a672c8650fffd333ed5c
-SHA1: e32115691c5ae8388a9406282cac070d20d490d9
-SHA256: f832aa1c2eea0aa014f62e9ba28a248473367acd57e3e836c9efb48ea41b8858
+Filename: ./debs/com.rain.rainwindow_1.1_iphoneos-arm64.deb
+Size: 850768
+MD5sum: b32f3e74a94670508a1ddb44d11c15b1
+SHA1: d7c3e2201aea75539e73278f529fed0cb50cb861
+SHA256: 14dda3a6e9300f36ea9129180dde5704852e76748c2f34ace1b61b773ba3feb6
 Section: Tweaks
 Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
 Author: Rain
