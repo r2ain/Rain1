@@ -22,7 +22,9 @@ SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/${pkgid}.json
             }" Packages
         fi
     fi
-done# 2.6 自动标注双架构版本 (Roothide/Rootless)
+done
+
+# 2.6 自动标注双架构版本 (Roothide/Rootless)
 echo "🏷 正在标注双架构版本..."
 dual_arch_pkgs=$(awk '/^Package:/{pkg=$2} /^Architecture: iphoneos-arm64e$/{e[pkg]=1} /^Architecture: iphoneos-arm64$/{a[pkg]=1} END{for(p in e) if(p in a) print p}' Packages)
 for pkgid in $dual_arch_pkgs; do
