@@ -114,7 +114,7 @@ SHA256: 49e4958c7ffb7f87ff292d98f397f0c2e3b7508ba00aba16450da8b8a69473a6
 Section: Tweaks
 Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、Tweak热加载等。
 Author: Rain
-Name: Rain的应用
+Name: Rain的应用 (Roothide)
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
 Package: com.rain.processmonitor
@@ -131,7 +131,7 @@ SHA256: 1cb7a0570d6225d7ec0114dddac50cae3f7555147b0b1fbe7186b32441a68091
 Section: Tweaks
 Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、Tweak热加载等。
 Author: Rain
-Name: Rain的应用
+Name: Rain的应用 (Rootless)
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
 Package: com.rain.rainback

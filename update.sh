@@ -22,6 +22,19 @@ SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/${pkgid}.json
             }" Packages
         fi
     fi
+done# 2.6 自动标注双架构版本 (Roothide/Rootless)
+echo "🏷 正在标注双架构版本..."
+dual_arch_pkgs=$(awk '/^Package:/{pkg=$2} /^Architecture: iphoneos-arm64e$/{e[pkg]=1} /^Architecture: iphoneos-arm64$/{a[pkg]=1} END{for(p in e) if(p in a) print p}' Packages)
+for pkgid in $dual_arch_pkgs; do
+    awk -v pkg="$pkgid" '
+    /^Package:/ { cur_pkg=$2; cur_arch="" }
+    /^Architecture:/ { cur_arch=$2 }
+    /^Name:/ && cur_pkg==pkg {
+        if (cur_arch=="iphoneos-arm64e") { print $0 " (Roothide)"; next }
+        if (cur_arch=="iphoneos-arm64") { print $0 " (Rootless)"; next }
+    }
+    { print }
+    ' Packages > Packages.tmp && mv Packages.tmp Packages
 done
 # 3. 把“菜单”压缩一下，方便手机下载 (Packages.bz2)
 echo "🗜 正在压缩索引..."
