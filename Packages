@@ -1,14 +1,14 @@
 Package: com.rain.120hzpro
-Version: 2.0.8-5-23+debug
+Version: 2.0.8-5-26+debug
 Architecture: iphoneos-arm64
 Maintainer: rain
 Installed-Size: 832
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.rain.120hzpro_2.0.8-5-23+debug_iphoneos-arm64.deb
-Size: 177296
-MD5sum: 2db4b9e15b1543d181f4c28d4ca7fd01
-SHA1: d8662eaa38dbcbb88325bc4a159e3a10b21c175e
-SHA256: 07b51ec17ae8cb4b5baa7ed32687bf9dfd9860b0dfa52d48db1b77ceb8b56d00
+Filename: ./debs/com.rain.120hzpro_2.0.8-5-26+debug_iphoneos-arm64.deb
+Size: 179226
+MD5sum: e3887429323388e3fe67ae8eb96555ff
+SHA1: 58e256507e9240bcbb3551024574ac22a2890e34
+SHA256: cdad036249a7b84758b5da02b4a420567d17b8e91353950e9f91f2be0340bb21
 Section: Tweaks
 Description: 强制高帧率应用到每一个应用上，支持IOKit底层帧率锁定、防系统降频、帧率波动图、实时FPS测量、安全防护增强
 Author: rain
@@ -16,16 +16,16 @@ Name: rain的120hz Pro
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.120hzpro.json
 
 Package: com.rain.dock
-Version: 3.6
+Version: 3.6.1
 Architecture: iphoneos-arm64
 Maintainer: Rain
 Installed-Size: 712
 Depends: preferenceloader
-Filename: ./debs/com.rain.dock_3.6_iphoneos-arm64.deb
-Size: 112346
-MD5sum: 5f76d5f914e4bea6ce90d05154553e2d
-SHA1: 02764d21c4cebe7ea0828e66280a6121203e1c7e
-SHA256: a153770c3f8f28a6d08ab6173893b7719ed068560d69b971f489b88474a9da4b
+Filename: ./debs/com.rain.dock_3.6.1_iphoneos-arm64.deb
+Size: 112970
+MD5sum: d357efe81c9d0a4792dfb7c25513daa4
+SHA1: b5cae4b81ae3d9275de0525f25f229c703d91901
+SHA256: b19a82f8a025c34bf0d1b2ccce3bcb24ee2506ebf9c4c7368765f0ae0223f804
 Section: Tweaks
 Description: Rain的Dock栏更美观/毛玻璃/发光边框/壁纸联动/电池条/快捷启动/手势操作/霓虹文字/矩阵雨/彩虹边框/生态缸
 Author: Rain
