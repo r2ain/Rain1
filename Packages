@@ -228,16 +228,16 @@ Name: Rain的Mhz
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainmhz.json
 
 Package: com.rain.rainwindow
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: Rain
 Installed-Size: 4980
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.rainwindow_1.1.1_iphoneos-arm64.deb
-Size: 859574
-MD5sum: 3f90ff28686d68586970dc7858dc2423
-SHA1: a1a06570b5010bb3020a2fa215c84099a04d2dda
-SHA256: 0bd228140392cbec673ebf544727993094379672f2a8dee4c76a7e7d999becd7
+Filename: ./debs/com.rain.rainwindow_1.1.2_iphoneos-arm64.deb
+Size: 859672
+MD5sum: b359cea4bb05ef81d38c18c49f506237
+SHA1: 7791372e5161a39cb5cfc8078730cc100f884f3a
+SHA256: ac1616a0c4b9a92d982370549694533ed46510cdd5866cec1bdb55a248a7646e
 Section: Tweaks
 Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
 Author: Rain
