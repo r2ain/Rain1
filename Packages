@@ -190,18 +190,18 @@ Name: Rain的容器
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raincontainer.json
 
 Package: com.rain.raindyn
-Version: 1.1.0
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 748
+Installed-Size: 800
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.rain.raindyn_1.1.0_iphoneos-arm64.deb
-Size: 169130
-MD5sum: f545e732358e5236398af5eea50004a0
-SHA1: 1f9cae1270857cb64dc59ebf379c1a66989e4062
-SHA256: 931d67153f1102aecfdafa0808ec4234eab830cd62bf47fbcc9999ff74277b75
+Filename: ./debs/com.rain.raindyn_1.2.0_iphoneos-arm64.deb
+Size: 178998
+MD5sum: 0692811cca19dc602ec5b6572757a053
+SHA1: 81dcc1b8e0451e876d014f425569d7b84b893ef1
+SHA256: d33397253c4b4ecc96811b7b27d62f6b25493dcd5f6a9a22ed931551ac89c9f6
 Section: Tweaks
-Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。新增：快捷回复、通知堆叠、Per-App独立样式、运行时设备检测。
+Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。1.2.0新增：通知连击特效、屏幕边缘氛围光、音乐律动脉冲、双击智能提取验证码。
 Author: Rain
 Name: Rain的灵动卡片
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raindyn.json
