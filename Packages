@@ -227,6 +227,23 @@ Author: Rain
 Name: Rain的Mhz
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainmhz.json
 
+Package: com.rain.rainscroll
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 412
+Depends: mobilesubstrate
+Filename: ./debs/com.rain.rainscroll_1.0.0_iphoneos-arm64.deb
+Size: 30548
+MD5sum: f360baa936469985eee742d087b9f421
+SHA1: dd2b8355a94b16c5e4bc3da72650d2d1daaac144
+SHA256: 4df63051e415bfe1bda21c4fedfa172dc8b87e1b4686018f1ee48f6440f46c45
+Section: Tweaks
+Description: Rain的滚动 v1.0 - 基础自动滚动/智能感知变速/智能吸附段落/潮汐节奏/触觉反馈/睡前阅读/倾斜重力操控/焦点引导线/进度浮窗，共9项功能。
+Author: Rain
+Name: Rain的滚动
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainscroll.json
+
 Package: com.rain.rainwindow
 Version: 1.1.2
 Architecture: iphoneos-arm64
