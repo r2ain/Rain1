@@ -1,14 +1,14 @@
 Package: com.rain.120hzpro
-Version: 2.0.8-5-26+debug
+Version: 2.0.8-5-31+debug
 Architecture: iphoneos-arm64
 Maintainer: rain
-Installed-Size: 832
+Installed-Size: 836
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.rain.120hzpro_2.0.8-5-26+debug_iphoneos-arm64.deb
-Size: 179226
-MD5sum: e3887429323388e3fe67ae8eb96555ff
-SHA1: 58e256507e9240bcbb3551024574ac22a2890e34
-SHA256: cdad036249a7b84758b5da02b4a420567d17b8e91353950e9f91f2be0340bb21
+Filename: ./debs/com.rain.120hzpro_2.0.8-5-31+debug_iphoneos-arm64.deb
+Size: 182442
+MD5sum: 7f5c3f880294a881324f78a1b63cab58
+SHA1: 32f462fbf066dd71acf110151d0a19462bfd968f
+SHA256: 0da2d768fdaa349a48c4ad1aa02e002d874a3aa0bbed9a692cf617e2d7003eae
 Section: Tweaks
 Description: 强制高帧率应用到每一个应用上，支持IOKit底层帧率锁定、防系统降频、帧率波动图、实时FPS测量、安全防护增强
 Author: rain
