@@ -153,20 +153,20 @@ Name: rain的返回
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainback.json
 
 Package: com.rain.raincall
-Version: 2.5-10-2
+Version: 2.6-2-1
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 1224
+Installed-Size: 1264
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.rain.raincall_2.5-10-2_iphoneos-arm64.deb
-Size: 181812
-MD5sum: c00f2c39ca17f28a0c601ec8e2d81670
-SHA1: 1c4c02c73c2e7b3c072706515aa61d83abab340d
-SHA256: 7125231afc454ec1cd782db26d2102c41a6766e81c2b70a12dfcc9533351a9c5
+Filename: ./debs/com.rain.raincall_2.6-2-1_iphoneos-arm64.deb
+Size: 191242
+MD5sum: f69a72e0241565b7398da757fbeeeebf
+SHA1: 6d032dfe5a6c1541b84ef0aabd136d828ceffac4
+SHA256: 3648eae1452d8bb686dd408c9ded47e95b6f95df1f6710d527d471ce47a0a077
 Section: Tweaks
 Description: Rain的通话录音插件 - 支持蜂窝通话和 VoIP 通话录音
- 通过 ATAudioTap 实现通话录音，支持微信/QQ/钉钉 VoIP 通话录音
- 支持自动录音、混音合并、AI 分析、通话字幕、质量监控
+ 通过 ATAudioTap 实现通话录音，支持微信/QQ/钉钉/Telegram/Line/FaceTime VoIP 通话录音
+ 支持自动录音、混音合并、AI 分析、通话字幕、关键词高亮、双语字幕、日历集成、自动分类、质量监控、通话后复盘、通话时光机
 Tag: role::hacker, purpose::extension
 Author: Rain
 Name: Rain的通话
