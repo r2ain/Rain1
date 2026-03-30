@@ -135,16 +135,16 @@ Name: Rain的应用 (Rootless)
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
 Package: com.rain.rainback
-Version: 1.6.2
+Version: 1.6.4
 Architecture: iphoneos-arm64
 Maintainer: rain
 Installed-Size: 516
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.rain.rainback_1.6.2_iphoneos-arm64.deb
-Size: 56618
-MD5sum: b2aaf808aa275cc72160fbb8c915b095
-SHA1: b3f02f7f5580abc088f1fe02211d9412fab9b333
-SHA256: 93bc8692e3b1d5e25d07e768750b3c54bcc6422109826eabcd33d89bdcbfee2b
+Filename: ./debs/com.rain.rainback_1.6.4_iphoneos-arm64.deb
+Size: 56948
+MD5sum: 599649d107714cbb777dfab742b1c5f2
+SHA1: 768bf8924f1aa64c0bd07bfd2de06cdff06b4d86
+SHA256: a99a61683d3ae9488a0fb0d712e6c70d18834d4fa1304f151914bea4cb1366b3
 Section: Tweaks
 Description: 从屏幕边缘或任意位置滑动返回上一页面，支持灵敏度调节、全屏手势、墨水扩散、光剑切割、动态触觉、自定义音效、黑白名单。
 Tag: role::hacker, purpose::extension
