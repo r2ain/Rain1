@@ -101,16 +101,16 @@ Name: Rain Pro
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.photopro.json
 
 Package: com.rain.processmonitor
-Version: 1.0.0-193+debug
+Version: 1.0.0-201+debug
 Architecture: iphoneos-arm64e
 Maintainer: Rain
-Installed-Size: 1772
+Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.processmonitor_1.0.0-193+debug_iphoneos-arm64e.deb
-Size: 295880
-MD5sum: ba25e37f72b1c49fd867e8c9b1adc02e
-SHA1: 146105e4508c9695790fe78443635b2b5b90f4d3
-SHA256: e800fd141de5b751b9f292300bf5fe8947355a7bc365d87dc61076ae904bbeac
+Filename: ./debs/com.rain.processmonitor_1.0.0-201+debug_iphoneos-arm64e.deb
+Size: 300020
+MD5sum: 7e5e6c2c02e628a96feb9531714b4873
+SHA1: 0c09fc1deba91de7017da973c7e7d420454d8521
+SHA256: 90d1ac5dff05cf1c3cd4a5b6945ae95159e117fd5b556c2962cc691c520c9dc0
 Section: Tweaks
 Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
 Author: Rain
@@ -118,16 +118,16 @@ Name: Rain的应用 (Roothide)
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
 Package: com.rain.processmonitor
-Version: 1.0.0-194+debug
+Version: 1.0.0-202+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 1804
+Installed-Size: 1820
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.processmonitor_1.0.0-194+debug_iphoneos-arm64.deb
-Size: 306912
-MD5sum: a832539c7a28af23647711eab976ebbc
-SHA1: a8acc4a407d4dc7f2e390f544ad6dbef05151399
-SHA256: 02bf1f45a93cb45314d9ad7f09f0f31a04a36ceea1d16cd64baeda1d29017b5c
+Filename: ./debs/com.rain.processmonitor_1.0.0-202+debug_iphoneos-arm64.deb
+Size: 310952
+MD5sum: e869acb70d6d911bff24086ad7096884
+SHA1: 9bc77fe153fcb09b9e2589244fe5cbb6811e66f4
+SHA256: eea4de944354dc7e9cde16544ce67af283b4bd594682c384dbdff061cab50a0a
 Section: Tweaks
 Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
 Author: Rain
@@ -245,16 +245,16 @@ Name: Rain的滚动
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainscroll.json
 
 Package: com.rain.rainwindow
-Version: 1.1.2-10+debug
+Version: 1.1.2-38+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 6936
+Installed-Size: 7732
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.rainwindow_1.1.2-10+debug_iphoneos-arm64.deb
-Size: 1498862
-MD5sum: 72fd17e18655a1d4fa6729b10154dc94
-SHA1: d8b30a75d22e9aeb48f72616a69fba2643f05e4c
-SHA256: 23f0224085d144865052254da09cc64f3399c51c2660c0a9a6c19bcf8cf76d85
+Filename: ./debs/com.rain.rainwindow_1.1.2-38+debug_iphoneos-arm64.deb
+Size: 1664160
+MD5sum: 1f563e113864968faa5f2610b72fada9
+SHA1: f89a1ea91ff0512ec037e6c3ee7566cbf55364b2
+SHA256: bf8401416466b6c87f379067c22d853d5c5ee9f905b388df123c60386deaeac2
 Section: Tweaks
 Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
 Author: Rain
