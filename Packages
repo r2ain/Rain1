@@ -262,16 +262,16 @@ Name: Rain的窗口
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainwindow.json
 
 Package: com.rain.reachnotify
-Version: 0.0.1-1-35+debug
+Version: 0.0.1-1-50+debug
 Architecture: iphoneos-arm64
 Maintainer: rain
-Installed-Size: 960
+Installed-Size: 996
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.rain.reachnotify.deb
-Size: 209214
-MD5sum: 62564c63a0d8c85de8a6d4cdf573f42f
-SHA1: 84c8ad0733a1f4b7d2b7aabab7f8aabccb0f6296
-SHA256: 465f55798c7f64c0ee04c662771a54b8e1aed264a440718f5432180727021d34
+Size: 219412
+MD5sum: 5c2c74a03ab6734e4dbf50289430e2c2
+SHA1: 73971e220feed452066704f375a479476ca50c09
+SHA256: 9f6bfdb79053a77b0d97a0d4b2ef4f47aa0e0c235738768526307cfc811c703f
 Section: Tweaks
 Description: 通知显示增强，收到通知能看到图标。v1.7.0优化：宏重构配置加载、线程安全、LRU去重、气泡拖尾、Reachability偏移量可调。
 Author: rain
