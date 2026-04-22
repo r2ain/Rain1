@@ -1,20 +1,3 @@
-Package: com.rain.120hzpro
-Version: 2.0.9-3
-Architecture: iphoneos-arm64
-Maintainer: rain
-Installed-Size: 1068
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.rain.120hzpro_2.0.9-3_iphoneos-arm64.deb
-Size: 229246
-MD5sum: 4d7ad6b47068314c75dccac8f16078d4
-SHA1: 63bc79bb9d7076401bf00c2ad6a316ae4d667458
-SHA256: 6105da946012ecd363a2e65301e2dcb274106c81c446b0dec5201251456a5fef
-Section: Tweaks
-Description: 三层激活防线全面落锁: 源头/底层/引擎启动三重门控 + SKView/SCNView/UIViewPropertyAnimator/Metal全覆盖
-Author: rain
-Name: rain的120hz Pro
-SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.120hzpro.json
-
 Package: com.rain.dock
 Version: 3.6.1
 Architecture: iphoneos-arm64
