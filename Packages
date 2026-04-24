@@ -1,14 +1,14 @@
 Package: com.rain.120hzpro
-Version: 2.0.9-3-2+debug
+Version: 2.0.9-3-3+debug
 Architecture: iphoneos-arm64
 Maintainer: rain
 Installed-Size: 1364
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.rain.120hzpro_2.0.9-3-2+debug_iphoneos-arm64.deb
-Size: 283290
-MD5sum: a9fff3845be2377dc08c3c4fab5fe5d7
-SHA1: 5c762b9339405c0580ab65f6ab7351345258c96c
-SHA256: 525e4eefe250230a0d7cf0d33bcb1cf736b096a124fd26678a3484637e463016
+Filename: ./debs/com.rain.120hzpro_2.0.9-3-3+debug_iphoneos-arm64.deb
+Size: 282000
+MD5sum: fc5bf9c7518780e225dc3dc7fe5df994
+SHA1: 12e78f0758dad7e465414e44bead036552d2c939
+SHA256: 6e869f8389734c890f6feff3d880354351842017054ad7e686af329c58a43bb6
 Section: Tweaks
 Description: 强制 120Hz 高帧率
 Author: rain
@@ -50,18 +50,18 @@ Name: MagicSMS
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.magicsms.json
 
 Package: com.rain.model
-Version: 1.0.1-1+debug
+Version: 2.0.0-25+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 496
+Installed-Size: 1516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.rain.model_1.0.1-1+debug_iphoneos-arm64.deb
-Size: 49200
-MD5sum: c28f194d20e90498a95fa22413dc1c7d
-SHA1: 6284c7383db4e268db7ae39051a58a3eea6b84ec
-SHA256: 5ed3a19d4959e87bd7ca6d96d13fa0d02ea1efbb71a81a05ff152dd86e69c0cb
+Filename: ./debs/com.rain.model_2.0.0-25+debug_iphoneos-arm64.deb
+Size: 246638
+MD5sum: ab9f36b39085af054dafc8b0290ad1ba
+SHA1: fde44c73a5c0c7d93c8dc8c5329a79bb32925745
+SHA256: 23621db45546ecea54f22a8b94c3c2de0ef8807433b1474dad4a5be019a9e2de
 Section: Tweaks
-Description: 任意魔法自己设备型号！
+Description: 超级设备型号伪装 - 支持MGCopyAnswer/GPU伪装/温控/UA同步/广告混淆/iPad互变/每App独立配置
 Author: Rain
 Name: Rain的设备
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.model.json
@@ -190,16 +190,16 @@ Name: Rain的容器
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raincontainer.json
 
 Package: com.rain.raindyn
-Version: 1.2.0-10+debug
+Version: 1.2.0-16+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 1544
+Installed-Size: 2100
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.rain.raindyn_1.2.0-10+debug_iphoneos-arm64.deb
-Size: 308174
-MD5sum: 219e3fa87bfb41c2d798f871a0fdcdd8
-SHA1: b7af9b8f9f75deb6060cafe9842b8b9f356738f3
-SHA256: ef302c6bea9201e0b75f1c4e7531c5fa1452cfd57a0470c536b2e86bcac4a701
+Filename: ./debs/com.rain.raindyn_1.2.0-16+debug_iphoneos-arm64.deb
+Size: 408790
+MD5sum: 03f951ecc4f4cfdb331da655b230d4cc
+SHA1: cf1750a97c798ede972fdef8545a10f2c01578c6
+SHA256: 1273fbc3132af115746d22a77d2b9ca94f62b6df5d60f122a90f944867fe2767
 Section: Tweaks
 Description: Rain的灵动卡片 - 自定义通知卡片动画效果，支持自定义背景、粒子特效、宠物、天气显示等丰富功能。1.2.0新增：通知连击特效、屏幕边缘氛围光、音乐律动脉冲、双击智能提取验证码。
 Author: Rain
