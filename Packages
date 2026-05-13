@@ -101,37 +101,37 @@ Name: Rain Pro
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.photopro.json
 
 Package: com.rain.processmonitor
-Version: 1.1.1-2+debug
-Architecture: iphoneos-arm64e
-Maintainer: Rain
-Installed-Size: 1352
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.processmonitor_1.1.1-2+debug_iphoneos-arm64e.deb
-Size: 302318
-MD5sum: f5c087dc7399115c815239dc46309cd2
-SHA1: 19c90c7bc874d89f9e67130d6c4cda5fdcee2240
-SHA256: 7d7acb2e3ca3710607db47441b215758bb50211bd90bfe2b08935e3875015b7b
-Section: Tweaks
-Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
-Author: Rain
-Name: Rain的应用 (Roothide)
-SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
-
-Package: com.rain.processmonitor
-Version: 1.1.1-3+debug
+Version: 1.1.1-11+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 1352
+Installed-Size: 1640
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.processmonitor_1.1.1-3+debug_iphoneos-arm64.deb
-Size: 306076
-MD5sum: 92067ef85440a9fdc627ff43aafeba93
-SHA1: 4ee71a33962be82c82fe9aced91bf9de65b585c6
-SHA256: d29058957a86ed1a2f8b26efa7a63148a29e152bbe074bab25894dc78bbcc3dd
+Filename: ./debs/com.rain.processmonitor_1.1.1-11+debug_iphoneos-arm64.deb
+Size: 344048
+MD5sum: fa2c8f31be814ae8a2fd46a703859f69
+SHA1: 981e05a140434a4b58e1e6615ce39540026b8545
+SHA256: 1a98631d555048243a68c8eb550e086bd9dc506edf973d7f5e1a52d2579e2e6d
 Section: Tweaks
 Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
 Author: Rain
 Name: Rain的应用 (Rootless)
+SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
+
+Package: com.rain.processmonitor
+Version: 1.1.1-12+debug
+Architecture: iphoneos-arm64e
+Maintainer: Rain
+Installed-Size: 1624
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rain.processmonitor_1.1.1-12+debug_iphoneos-arm64e.deb
+Size: 343258
+MD5sum: e5bdb99e0f0fe5304bdc616291f5512a
+SHA1: f02d1f1c8e8e662653f4a5a5bca5b63ee210310e
+SHA256: 7eb4dc13994d06b7f6d7ab6a47098f2fec43848f42d97c3d3cc75ce507cf2d82
+Section: Tweaks
+Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
+Author: Rain
+Name: Rain的应用 (Roothide)
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.processmonitor.json
 
 Package: com.rain.rainback
