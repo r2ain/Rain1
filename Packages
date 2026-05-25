@@ -1,14 +1,14 @@
 Package: com.rain.120hzpro
-Version: 2.0.9-4-18+debug
+Version: 2.0.9-4-20+debug
 Architecture: iphoneos-arm64
 Maintainer: rain
 Installed-Size: 1436
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.rain.120hzpro_2.0.9-4-18+debug_iphoneos-arm64.deb
-Size: 294794
-MD5sum: f7d217caea0d59eb14159cd5f9d78f57
-SHA1: 78f0bbaf224920cb23203b1e66c77dacc138d0eb
-SHA256: cfb342550c520789f528e2e37753fa32646478209036b6873737fd372295ddb0
+Filename: ./debs/com.rain.120hzpro_2.0.9-4-20+debug_iphoneos-arm64.deb
+Size: 297540
+MD5sum: cdfb38e917691f00b96fd6e0bd474e0e
+SHA1: 727734481b458d4a215a05f86df9b2148b730ac3
+SHA256: 8566679f5fe5f4833c4a09fffc001b103a0ff4c2c06dc7b9432100cb663f0f5e
 Section: Tweaks
 Description: 强制 120Hz 高帧率
 Author: rain
