@@ -228,16 +228,16 @@ Name: Rain的Mhz
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainmhz.json
 
 Package: com.rain.rainscreenframe
-Version: 1.3.1-51+debug
+Version: 1.3.1-56+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 2436
+Installed-Size: 2528
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.rainscreenframe_1.3.1-51+debug_iphoneos-arm64.deb
-Size: 469076
-MD5sum: 777e303894f564d5e12c20092530e10d
-SHA1: 5fe9c015c2e642219a348c557167c9556209ea3d
-SHA256: 369c5beb3e7b1e1b017e188bf059be7eb3c644ded3f4a63fcc8e439bdf5f807f
+Filename: ./debs/com.rain.rainscreenframe_1.3.1-56+debug_iphoneos-arm64.deb
+Size: 482526
+MD5sum: 410def66c29d8176a44a863c45b66cc7
+SHA1: 7cbf105a10ed561270eb924b86a72f5cd1aa8b45
+SHA256: 9c78120f907bf94d6e93145814ebc598c83638e4e88a50147d273e933c103b8f
 Section: Tweaks
 Description: Rain的套壳截图 - 截屏后弹出工具栏，支持设备套壳、圆角卡片、截图标注、截图拼接、截图转GIF、自定义水印、截图转PDF、截图对比
 Author: Rain
