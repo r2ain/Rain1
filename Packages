@@ -262,16 +262,16 @@ Name: Rain的滚动
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.rainscroll.json
 
 Package: com.rain.rainwindow
-Version: 1.1.2-38+debug
+Version: 1.1.2-55+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 7732
+Installed-Size: 4320
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rain.rainwindow_1.1.2-38+debug_iphoneos-arm64.deb
-Size: 1664160
-MD5sum: 1f563e113864968faa5f2610b72fada9
-SHA1: f89a1ea91ff0512ec037e6c3ee7566cbf55364b2
-SHA256: bf8401416466b6c87f379067c22d853d5c5ee9f905b388df123c60386deaeac2
+Filename: ./debs/com.rain.rainwindow_1.1.2-55+debug_iphoneos-arm64.deb
+Size: 1043960
+MD5sum: 6aca8949b9fe7a3c6b0e4a6f5e658ccd
+SHA1: 823561e5615ebb8e2808b4edf547977055850f0f
+SHA256: cc3760683bd3642952ae9cbaf182a9a9cb9bcfbeeb1502b82f04961e15c411ef
 Section: Tweaks
 Description: Rain的窗口 - 点击状态栏电池图标呼出多功能悬浮面板，集成天气、相册、备忘录、AI助手、应用快捷启动、系统信息、通知管理等丰富模块，支持自定义排列与个性化配置
 Author: Rain
