@@ -311,3 +311,19 @@ Description: Rain的SaFari - Safari暗黑模式 & 广告拦截 & 主题定制 & 
 Author: Rain
 Name: Rain的SaFari
 
+Package: com.rain.wallpapergenerator
+Version: 1.0.0-15+debug
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader, com.iosdump.zone
+Filename: ./debs/com.rain.wallpapergenerator_1.0.0-15+debug_iphoneos-arm64.deb
+Size: 96696
+MD5sum: 281245a9b720504104c4e234a775b24b
+SHA1: f7b5f6bd3292abff4bf52f85613c978dd42b9470
+SHA256: bd7ddb46c1c0df70cb7b35a955403b25add7ae878806091319ce00e98925d11e
+Section: Tweaks
+Description: 选择2-6张透明PNG图片，一键生成动态壁纸配合Zone插件使用
+Author: Rain
+Name: Rain的锁屏壁纸
+
