@@ -50,16 +50,16 @@ Name: MagicSMS
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.magicsms.json
 
 Package: com.rain.model
-Version: 2.0.0-25+debug
+Version: 2.0.0-26+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
 Installed-Size: 1516
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.rain.model_2.0.0-25+debug_iphoneos-arm64.deb
-Size: 246638
-MD5sum: ab9f36b39085af054dafc8b0290ad1ba
-SHA1: fde44c73a5c0c7d93c8dc8c5329a79bb32925745
-SHA256: 23621db45546ecea54f22a8b94c3c2de0ef8807433b1474dad4a5be019a9e2de
+Filename: ./debs/com.rain.model_2.0.0-26+debug_iphoneos-arm64.deb
+Size: 246654
+MD5sum: f88f66ea057f45b705bfa07efa446ebf
+SHA1: eff27b43eabdd6b2efd6a4dacefb7369f46339d6
+SHA256: 93c5ca725b464e11c58de670dbf99f909a2d47b741fe1c5fb658a7fd93367d37
 Section: Tweaks
 Description: 超级设备型号伪装 - 支持MGCopyAnswer/GPU伪装/温控/UA同步/广告混淆/iPad互变/每App独立配置
 Author: Rain
