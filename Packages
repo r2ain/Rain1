@@ -173,18 +173,18 @@ Name: Rain的通话
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raincall.json
 
 Package: com.rain.raincontainer
-Version: 2.8.0
+Version: 2.9.0-7+debug
 Architecture: iphoneos-arm64
 Maintainer: Rain
-Installed-Size: 868
+Installed-Size: 1956
 Depends: mobilesubstrate, com.opa334.crane
-Filename: ./debs/com.rain.raincontainer_2.8.0_iphoneos-arm64.deb
-Size: 156434
-MD5sum: 86c90230fa3a2eb197a21945bd3498ad
-SHA1: 8de364bf55ca89be07f54bf304f7bc6d79698986
-SHA256: 322c53c52e71be7988360d69e121aaacf955f101bbf41f3b0bb1cd865cd3a02c
+Filename: ./debs/com.rain.raincontainer_2.9.0-7+debug_iphoneos-arm64.deb
+Size: 346986
+MD5sum: cc62bf75d214cff4b5aec04d9774f4d1
+SHA1: 227f08c06ee0a80b54fbcb0ba94aa1c5f53c2b16
+SHA256: f6a0a47aedec750b5fef1f84a705cc5bbcc6aa6b990a170554e6824c0aa24beb
 Section: Tweaks
-Description: Crane 容器增强管理插件。提供上滑面板快速切换、动态边框、容器气泡、分身术、雷达、沙盒浏览器、时间胶囊、伪装容器、主题色、应急切换、幽灵容器、双层容器、蜜罐容器、安全等级、入侵检测日志等丰富功能。基于 opa334 的 Crane 开发。本插件仅供个人学习研究使用，请勿用于任何商业或非法用途。
+Description: 基于 Crane 开发，感谢作者 opa334 编译开发的优秀插件；需安装原版的 Crane 即可生效
 Author: Rain
 Name: Rain的容器
 SileoDepiction: https://rain1-d1l.pages.dev/sileodepictions/com.rain.raincontainer.json
