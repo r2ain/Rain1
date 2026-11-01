@@ -85,21 +85,21 @@
         {
           "class": "DepictionTableTextView",
           "title": "版本",
-          "text": "2.0.8",
+          "text": "2.0.9-11",
           "titleColor": "#FF6B6B",
           "textColor": "#FF6B6B"
         },
         {
           "class": "DepictionTableTextView",
           "title": "更新时间",
-          "text": "2026-03-11",
+          "text": "2026-11-01",
           "titleColor": "#FF6B6B",
           "textColor": "#FF6B6B"
         },
         {
           "class": "DepictionTableTextView",
           "title": "大小",
-          "text": "170 KB",
+          "text": "181 KB",
           "titleColor": "#FF6B6B",
           "textColor": "#FF6B6B"
         },
@@ -128,7 +128,7 @@
         {
           "class": "DepictionTableButtonView",
           "title": "获取作者联系",
-          "action": "https://m.tb.cn/h.8TsRGyr?tk=g4SogAM1pRG",
+          "action": "https://m.tb.cn/h.jUxq5eF?tk=f9YK6a8qJ4Y",
           "openExternal": true,
           "tintColor": "#FF6B6B"
         },
@@ -170,6 +170,17 @@
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "2.0.9-11",
+          "textColor": "#FF6B6B"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 更新至 2.0.9-11",
+          "useSpacing": true,
+          "textColor": "#FF6B6B"
+        },
         {
           "class": "DepictionHeaderView",
           "title": "2.0.8",
